@@ -14,8 +14,9 @@ Total Funded Amount: Total disbursed, MTD amount, and MoM changes.
 Total Amount Received: Total from borrowers, MTD amount, and MoM changes.
 Average Interest Rate: Overall average, MTD rate, and MoM variations.
 Average Debt-to-Income Ratio (DTI): Overall average, MTD DTI, and MoM fluctuations.
-A big thank you to DataTutorials for their invaluable guidance and support. Their comprehensive explanations and tutorials have been instrumental in helping me understand the essentials of bank loan report preparation. 
-Can Check Video Presentation on my Linkedin Profile
+A big thank you to DataTutorials for their invaluable guidance and support. Their comprehensive explanations and tutorials have been instrumental in helping me understand the essentials of bank loan report preparation.
+
+Can Check **Video Presentation on my Linkedin Profile**.
 
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_dataanalytics-banking-finance-activity-7220836790327255040-JKho?utm_source=share&utm_medium=member_desktop
 
