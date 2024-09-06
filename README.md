@@ -18,5 +18,5 @@ A big thank you to DataTutorials for their invaluable guidance and support. Thei
 
 https://www.linkedin.com/posts/sujata-sharma-6b9a6017_dataanalytics-banking-finance-activity-7220836790327255040-JKho?utm_source=share&utm_medium=member_desktop
 
-#DataAnalytics #Banking #Finance #ExcelDashboard #DataVisualization #LoanReports #KPI #DataScience #DataTutorials #JobSearch #OpenToWork #CareerOpportunity #Hiring #JobHunt #Resume #LinkedInJobs
+
 
